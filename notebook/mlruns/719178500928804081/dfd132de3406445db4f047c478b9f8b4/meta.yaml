@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aplle/OneDrive/Documentos/2024-2/ArquitecturaDeSoftware/ml-flow-env/notebook/mlruns/719178500928804081/dfd132de3406445db4f047c478b9f8b4/artifacts
+end_time: 1731190089972
+entry_point_name: ''
+experiment_id: '719178500928804081'
+lifecycle_stage: active
+run_id: dfd132de3406445db4f047c478b9f8b4
+run_name: funny-boar-139
+run_uuid: dfd132de3406445db4f047c478b9f8b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731190088718
+status: 3
+tags: []
+user_id: aplle

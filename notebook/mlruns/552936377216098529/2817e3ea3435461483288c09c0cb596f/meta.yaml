@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aplle/OneDrive/Documentos/2024-2/ArquitecturaDeSoftware/ml-flow-env/notebook/mlruns/552936377216098529/2817e3ea3435461483288c09c0cb596f/artifacts
+end_time: 1731189819479
+entry_point_name: ''
+experiment_id: '552936377216098529'
+lifecycle_stage: active
+run_id: 2817e3ea3435461483288c09c0cb596f
+run_name: gaudy-snake-276
+run_uuid: 2817e3ea3435461483288c09c0cb596f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731189691001
+status: 3
+tags: []
+user_id: aplle

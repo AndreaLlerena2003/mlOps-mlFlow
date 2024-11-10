@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aplle/OneDrive/Documentos/2024-2/ArquitecturaDeSoftware/ml-flow-env/notebook/mlruns/552936377216098529/b402b95f581749d2b8c7e5d7f54aa2aa/artifacts
+end_time: 1731186562315
+entry_point_name: ''
+experiment_id: '552936377216098529'
+lifecycle_stage: active
+run_id: b402b95f581749d2b8c7e5d7f54aa2aa
+run_name: '20241109_155942'
+run_uuid: b402b95f581749d2b8c7e5d7f54aa2aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731186552099
+status: 4
+tags: []
+user_id: aplle
